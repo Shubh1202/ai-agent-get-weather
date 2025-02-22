@@ -1,0 +1,9 @@
+API_ENV = development
+API_HOST = localhost
+API_PORT = 5050
+API_VERSION = /api/v1
+DB_URI = mongodb://127.0.0.1:27017/ai-use-cases
+DEEPSEEK_AI_KEY = 
+HUGGING_FACE = 
+GP = 
+OPEN_AI_KEY = 
